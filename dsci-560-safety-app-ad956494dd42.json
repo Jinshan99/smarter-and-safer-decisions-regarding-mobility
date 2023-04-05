@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dsci-560-safety-app",
+  "private_key_id": "ad956494dd42784d736189c53f42daa8a45a237b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPxxDXsdNiCNZ4\nxsXa2twx59qrheMBeWCa1gPUM3iPOAgTRVL0D/UrNwMdkd/i904eLdMOqnX+9OAb\nXYr/4dXIWOVP7+Z6uSq5kjGQKspVROaY4Q5D8jm7J8aL0nxM3DcTC/eTkvYANMej\n6/+U59i/3GTUixhdKiNO1uAmfeVVYPuOShGASKtScAzFJoQrwyU5qcKoUUIe486m\nGs/Wji1K8RQEv5xl9QIW4kSz20yFK1hQaXNnfKn1mpBmbqQOqx1IvLtMjBKeflVF\nGaUUS0l0HvUOfQw5xg9V4XhHqWRW0LB1h3rwdWRcKSpN9JJh5sUMMXmd620TltH7\npn+HlkSXAgMBAAECggEAEGSJzZCXVslGLBgRt/MV1v97OuzgJdYLxyuZMn5kg65y\nRpberzgLOSWjuSEy2Hhfk5OgSZRIMXeu/j/AmOMhUknxv0Gi0sw+Nvvtow/V6OSb\nBsQ7hvtc913rcRwLEwz/9IUmnFCjCVal39EztJZolpt6HZJMXAGcFqGWMJ1QYqxT\nzxsm7QcPaKGZEG0lsOcYi09L07vDQv4gB2byRzRT0whK3lbwJY30xxF+udzOiGMN\nOPLmhWZl53Lyc+u6TcKHPZWl/wNsGCtjP810xE/GG381fjNZc1Npyg9R8Yf/ddE9\nQoYqVXeuobBW0XUZnrbqNnsGi3Pi4WRip0fVbAOvNQKBgQDEp6rOMfsDU6Fw3829\n41Iy4o1z4544etrwUupfBlpWSbkeaNoqpI+l+QuR3JBtw1HVYEpwzTLkpbeb5QNh\nRJf3oQtS9Wp/GJEgGrqoan0EYKbFhaa5DoWZOz3IpZutK0vhsAKX52I4CUA5PPte\n7SwKYHRsqH8lrauwiFBUHGokwwKBgQC7KmzI4xR3XJs3ns8CVwJbCyS4O4XmTziT\nT4qUW+yuC6KvJ0qpZQyLmFPhy0zX/Wcj+rWI2/T0SF8YeN7akE5Tiwg+Y3kzD0Qb\nQJrSDR0yg8UrWK8NLiJk0hD1sfDnGdyx0XG9eFFwK3RLwUrFxY3st7LZ/zlMn+3z\nK5zb8fvTnQKBgFQxXGUu7MJ92Y5Touf7HMQAToMhHiocHwPo28KXG7H5mjG0vkKn\ndYCfYR6viX4Us0JhGT21/GX7tOIfaBUKou03m3uG6nNDd06BYwybmq53Gq9SCxEL\ncJMr08XFcSLweGpFSrbyLxDClSZsP0pizAodRXsHoHfnJKxNj+aSy7a1AoGAT2Yu\nBAKhOgmlJzFNrDZxH2JYz3cg1JUi8Qs7RLjCbQsulpNajwX5DncujokKLk6npJHE\n1SxKfB7/iIguMhYpxDMk6iKU1d5SDCWaCCXcDwPrbvoOOM8rdA3ReAlmowNLpnut\nfq0+DxHAIir7p26pSJSdYPFuw1zNOu1ze7LqG9kCgYEAqoP1cYR9H2oHEvL/ibOH\nRscjfPnoxjeosgxWbq2MZKUVNWOezLgy94ou7EJq1G6ApeTEmjUJriZC3oEgeH1v\nW3YjbWkdcIijICXcFwU3paz+AGr7mB3AejTZH+i68ig9ZqmIzIqE7xJ34FAeCWQ4\n6CZNyofjfsFzijvauutMM1o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "safetyappvisionapi@dsci-560-safety-app.iam.gserviceaccount.com",
+  "client_id": "116552560051464922361",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/safetyappvisionapi%40dsci-560-safety-app.iam.gserviceaccount.com"
+}
